@@ -124,7 +124,8 @@ The objective is to understand sales performance, analyze product trends, evalua
 - Cumulative revenue shows a positive progression  
 
 ### Dashboard Preview  
-https://github.com/sonajestin-pixel/Mini-project/blob/main/dashboard_revenue_growth.png?raw=true
+<img width="974" height="561" alt="image" src="https://github.com/user-attachments/assets/58458095-2ea2-4cca-905e-bc710006d485" />
+
 
 ---
 
