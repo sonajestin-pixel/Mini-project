@@ -122,7 +122,7 @@ https://github.com/sonajestin-pixel/Mini-project/blob/main/dashboard_product_ana
 - Cumulative revenue shows a positive progression  
 
 ### Dashboard Preview  
-
+https://github.com/sonajestin-pixel/Mini-project/blob/main/dashboard_revenue_growth.png?raw=true
 
 ---
 
