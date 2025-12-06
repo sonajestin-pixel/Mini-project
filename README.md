@@ -7,7 +7,7 @@ The objective is to understand sales performance, analyze product trends, evalua
 
 # 1. Excel Data Cleaning & Preparation
 
-### ✔ Steps Performed
+### Steps Performed
 - Removed duplicate records from the dataset  
 - Standardized text fields  
 - Cleaned date column and ensured a consistent date format  
@@ -71,7 +71,7 @@ The objective is to understand sales performance, analyze product trends, evalua
 - Customer and product performance indicators show stable trends  
 
 ### Dashboard Preview  
-
+https://github.com/sonajestin-pixel/Mini-project/blob/main/dashboard_sales_overview.png?raw=true
 
 ---
 
