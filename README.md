@@ -71,7 +71,8 @@ The objective is to understand sales performance, analyze product trends, evalua
 - Customer and product performance indicators show stable trends  
 
 ### Dashboard Preview  
-https://github.com/sonajestin-pixel/Mini-project/blob/main/dashboard_sales_overview.png?raw=true
+<img width="986" height="555" alt="image" src="https://github.com/user-attachments/assets/c81be11e-6668-4114-be3f-8e0283007341" />
+
 
 ---
 
