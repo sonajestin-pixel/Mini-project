@@ -97,7 +97,8 @@ The objective is to understand sales performance, analyze product trends, evalua
 - Product demand varies across regions  
 
 ### Dashboard Preview  
-https://github.com/sonajestin-pixel/Mini-project/blob/main/dashboard_product_analysis.png?raw=true
+<img width="976" height="557" alt="image" src="https://github.com/user-attachments/assets/9c0d876a-7f18-4cfc-addc-5ddecea82a7d" />
+
 
 ---
 
