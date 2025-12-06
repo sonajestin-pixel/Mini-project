@@ -96,7 +96,7 @@ https://github.com/sonajestin-pixel/Mini-project/blob/main/dashboard_sales_overv
 - Product demand varies across regions  
 
 ### Dashboard Preview  
-
+https://github.com/sonajestin-pixel/Mini-project/blob/main/dashboard_product_analysis.png?raw=true
 
 ---
 
